@@ -9,7 +9,7 @@ Web Dev | Data Scientist
 Currently an undergrad student in Computer Engineering
 
 *   🌍  I'm based in Cameroon
-*   ✉️  You can contact me at [chelseanewhorizon@gmail.com](mailto:chelseanewhorizon@gmail.com)
+*   ✉️  You can contact me at [bankechelsea@gmail.com](mailto:bankechelsea@gmail.com)
 *   🚀  I'm currently working on FunctionBox (a private repo)
 *   🧠  I'm learning JavaScript for Web Development and Python for Data Science
 *   🤝  I'm open to collaborating on Awsome projects where my skills can be helpful
