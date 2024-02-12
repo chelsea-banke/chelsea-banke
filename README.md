@@ -10,7 +10,7 @@ Currently an undergrad student in Computer Engineering
 
 *   🌍  I'm based in Cameroon
 *   ✉️  You can contact me at [chelseanewhorizon@gmail.com](mailto:chelseanewhorizon@gmail.com)
-*   🚀  I'm currently working on [A ToDo list App](http://todo-chelsea-banke.vercel.app)
+*   🚀  I'm currently working on FunctionBox (a private repo)
 *   🧠  I'm learning JavaScript for Web Development and Python for Data Science
 *   🤝  I'm open to collaborating on Awsome projects where my skills can be helpful
 *   ⚡  I'd like to collaborate on projects and connect with great minds like yours
